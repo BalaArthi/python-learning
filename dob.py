@@ -1,5 +1,5 @@
 print("AGE CALCULATION")
-year=int(input("year:" ))
+current year=int(input("year:" ))
 dob=int(input("dob:" ))
-age=year-dob
+age=current year-dob
 print("age:",age)
